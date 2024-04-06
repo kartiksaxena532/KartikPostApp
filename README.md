@@ -16,9 +16,4 @@ Things you may want to cover:
 * Database initialization
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Make the changes to the readme file amended the postrges data base with the pg admin 4
